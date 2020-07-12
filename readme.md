@@ -1,4 +1,4 @@
-If encount this issue [Can't install scoop #1464](https://github.com/lukesampson/scoop/issues/1464), you can run the script (`scoop-installer.ps1`) with powershell manually to install `scoop`.
+If encount this issue ([Can't install scoop #1464](https://github.com/lukesampson/scoop/issues/1464)), you can run the script (`scoop-installer.ps1`) with powershell manually to install `scoop`.
 
 issue detail:
 ```
